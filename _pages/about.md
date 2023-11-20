@@ -1,6 +1,6 @@
 ---
 permalink: /About/
-title:
+title: ""
 layout: single
 ---
 
