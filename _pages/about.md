@@ -3,7 +3,7 @@ permalink: /About/
 title: "About Me"
 layout: single
 ---
-
+  
 # About
 - - -
 + 공부한 내용을 정리하고 리마인드 하기 위한 목적으로 블로그 개설.
