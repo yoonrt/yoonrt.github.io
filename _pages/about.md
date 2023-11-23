@@ -1,11 +1,9 @@
 ---
 permalink: /About/
-title: ""
+title: "About Me"
 layout: single
 author_profile: true
 ---
-
-# About Me  
   
 ## About
 + 공부한 내용을 정리하고 리마인드 하기 위한 목적으로 블로그를 개설 하였습니다.
