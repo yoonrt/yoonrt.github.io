@@ -33,7 +33,8 @@ https://www.oracle.com/java/technologies/downloads/archive/
 JDK가 설치되어 있는 경로에 scripts 폴더를 생성해 주었다.  
 
 ## 3. 환경변수 추가
-![20231128_JDK4](https://github.com/yoonrt/springapp_repo/assets/63996835/ad5bd55e-4e24-485d-83ad-da50054f6dd6)
+![20231128_JDK4](https://github.com/yoonrt/springapp_repo/assets/63996835/ad5bd55e-4e24-485d-83ad-da50054f6dd6)  
+
 환경변수의 시스템 환경 변수에서 Path 변수에 위에서 생성한 폴더의 경로를 지정해준다.  
 
 ## 4. bat 파일에 명령어 생성
